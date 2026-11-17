@@ -1,0 +1,13 @@
+{
+  "entrypoint": "cloudflare-worker.js",
+  "compatibilityDate": "2026-10-25",
+  "modules": [
+    {
+      "name": "cloudflare-worker.js",
+      "type": "esm",
+      "path": "./cloudflare-worker.js"
+    }
+  ],
+  "assetsDirectory": "./dist",
+  "spa": true
+}
